@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/gTiETg9a)
 
 
-<video src="https://github.com/Iskenderun-Technical-University/Oyun-Programlama-Donem-Projesi-Yunus-zkaya/assets/92160164/63e8f057-783f-410f-b758-40bf4afdd9e8" />
+<video src="https://github.com/Iskenderun-Technical-University/Oyun-Programlama-Donem-Projesi-Yunus-zkaya/assets/92160164/63e8f057-783f-410f-b758-40bf4afdd9e8" >
 <em>Github sadece 10 mb altı videoları kabul ettiğinden kaliteyi düşürmek zorunda kaldım. İstenirse yüksek çözünürlüklü halini YouTube'a yükleyebilirim.</em>
 
 ![https://imgur.com/ALQacsf](https://i.imgur.com/ALQacsf.jpg)
